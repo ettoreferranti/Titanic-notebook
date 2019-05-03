@@ -1,4 +1,4 @@
-# ML-Test
+# Have fun with a tragedy!
 
 Jupyter notebook to work on the titanic challenge from kaggle (https://www.kaggle.com/c/titanic).
 
